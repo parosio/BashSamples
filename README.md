@@ -1,0 +1,2 @@
+# BashSamples
+Bash snippets utils
